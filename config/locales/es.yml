@@ -219,6 +219,7 @@ es:
         one: Zona
         other: Zonas
   add: Añadir
+  add_action_of_type: Añadir accion del tipo
   add_category: "Añadir Categoría"
   add_country: "Añadir País"
   add_option_type: "Añadir tipo de opción"
