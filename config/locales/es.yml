@@ -1101,3 +1101,10 @@ es:
   promotion_action: Accion de la Promocion
   promotion_actions: Acciones
   promotion_rule: Regla de la Promocion
+  spree:
+    cart:
+      add: Añadir
+    order:
+      contents_changed: Contenidos Cambiados
+    user:
+      signup: Registrado
