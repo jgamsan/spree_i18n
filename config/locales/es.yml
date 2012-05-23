@@ -843,6 +843,16 @@ es:
     user: 
       description: Disponible sólo para los siguientes clientes
       name: Cliente
+  promotion_action_types:
+    create_adjustment:
+      name: Crear Ajuste
+      description: Crear una promocion de ajuste de credito en el pedido
+    create_line_items:
+      name: Crear Linea de articulos
+      description: Poblar el carrito con las variantes y cantidades especificadas
+    give_store_credit:
+      name: Dar credito de la tienda
+      description: Das al usuario un credito de la tienda de la cantidad especificada
   promotions: Promociones
   promotions_description: Configurar ofertas y cupones con promociones
   properties: "Propiedades"
@@ -1084,3 +1094,9 @@ es:
   zone_based: "Zona"
   zone_setting_description: "Colecciones de países, estados o de otras zonas que se utilizarán en diversos cálculos"
   zones: Zonas
+  spree/order:
+    coupon_code: Codigo del Cupon
+  landing_page_rule:
+    path: Ruta
+  promotion_action: Accion de la Promocion
+  promotion_rule: Regla de la Promocion
