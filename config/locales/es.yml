@@ -95,12 +95,12 @@ es:
         arguments: "Argumentos"
         description: "Descripción"
       promotion: 
-        code: "Codigo"
-        description: "Descripción"
-        expires_at: "Caduca el"
-        name: "Nombre"
-        starts_at: "Comienza el"
-        usage_limit: "Límite de uso"
+        code: Codigo
+        description: Descripción
+        expires_at: Caduca el
+        name: Nombre
+        starts_at: Comienza el
+        usage_limit: Límite de uso
       property: 
         name: Nombre
         presentation: Presentación
