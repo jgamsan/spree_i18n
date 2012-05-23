@@ -94,9 +94,11 @@ es:
       product_scope: 
         arguments: "Argumentos"
         description: "Descripción"
-      promotion: 
+      spree/promotion: 
+        advertise: Anunciar
         code: Codigo
         description: Descripción
+        event_name: Tipo de accion
         expires_at: Caduca el
         name: Nombre
         starts_at: Comienza el
