@@ -1102,10 +1102,10 @@ es:
   promotion_actions: Acciones
   promotion_rule: Regla de la Promocion
   event_names:
-    spree:
-      cart:
-        add: Añadir
-      order:
-        contents_changed: Contenidos Cambiados
-      user:
-        signup: Registrado
+    spree/cart:
+      add: Añadir
+    spree/order:
+      contents_changed: Contenidos Cambiados
+    spree/user:
+      signup: Registrado
+    name: Nombre
