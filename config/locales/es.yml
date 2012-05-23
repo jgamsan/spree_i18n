@@ -410,6 +410,12 @@ es:
     one: "1 error impidió que no pudiera guardarse el registro"
     other: "%{count} errores impidieron que no pudiera guardarse el registro"
   event: Evento
+  events:
+    spree:
+      checkout:
+        coupon_code_added: Añadido codigo cupon
+      content:
+        visited: Visitado
   existing_customer: "Cliente existente"
   expiration: "Caducidad"
   expiration_month: "Mes de vencimiento"
