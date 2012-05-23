@@ -1099,4 +1099,5 @@ es:
   landing_page_rule:
     path: Ruta
   promotion_action: Accion de la Promocion
+  promotion_actions: Acciones
   promotion_rule: Regla de la Promocion
