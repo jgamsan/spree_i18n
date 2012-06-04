@@ -602,6 +602,7 @@ es:
   options: Opciones
   or: o
   ord_qty: "Cant. pedido"
+  or_over_price: O mas caro
   ord_total: "Total pedido"
   order: Pedido
   order_confirmation_note: "Nota de confirmación de pedido"
@@ -686,6 +687,7 @@ es:
   previous: Anterior
   price: Precio
   price_bucket: Precio Definido
+  price_range: Rango de Precios
   price_with_vat_included: "%{price} (inc. IVA)"
   problem_authorizing_card: "Problema autorizando la tarjeta"
   problem_capturing_card: "Problema capturando la tarjeta"
@@ -1048,6 +1050,7 @@ es:
   unable_to_connect_to_gateway: "No ha sido posible conectarse a la pasarela."
   unable_to_save_order: "No ha sido posible guardar el pedido"
   under_paid: "Pago en pérdida"
+  under_price: Mas barato
   units: "Unidades"
   unrecognized_card_type: Tipo de tarjeta desconocido
   update: Actualizar
