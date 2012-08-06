@@ -237,6 +237,10 @@ es:
   adjustment: Ajuste
   adjustment_total: Ajuste total
   adjustments: Ajustes
+  admin:
+    mail_methods:
+      testmail:
+        delivery_success: "Enviado correo de prueba satisfactoriamente"
   administration: Administración
   all: "Todos"
   all_departments: Todos los departamentos
@@ -1007,6 +1011,11 @@ es:
   taxonomy_tree_instruction: "* Click derecho en uno de los nodos para acceder al menu para añadir, eliminar u ordenar nodos"
   taxons: Categorías
   test: "Test"
+  test_mailer:
+    test_email:
+      subject: "Test de envio de email"
+      greeting: "Felicitaciones"
+      message: "Ha recibido un mensaje de prueba de la configuracion del email. El sistema de email esta operativo"
   test_mode: Modo Prueba
   thank_you_for_your_order: "Gracias por su pedido"
   there_were_problems_with_the_following_fields: "Han habido problemas con los siguientes campos: "
