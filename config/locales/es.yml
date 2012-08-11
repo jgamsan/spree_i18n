@@ -364,6 +364,7 @@ es:
   date_range: "Rango de Fecha"
   debit: Débito
   default: Por omisión
+  default_tax: "Tasa por defecto"
   delete: Eliminar
   delivery: Envío
   depth: Profundidad
