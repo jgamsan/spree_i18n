@@ -150,12 +150,6 @@ th:
       creditcard: 
         one: บัตรเครดิต
         other: บัตรเครดิตเพิ่มเติม
-      creditcard_payment: 
-        one: "Credit Card Payment"
-        other: "Credit Card Payments"
-      creditcard_txn: 
-        one: "Credit Card Transaction"
-        other: "Credit Card Transactions"
       inventory_unit: 
         one: "Inventory Unit"
         other: "Inventory Units"
@@ -346,8 +340,6 @@ th:
   credit_card_payment: "Credit Card Payment"
   credit_owed: "Credit Owed"
   credit_total: Credit Total
-  creditcard: Creditcard
-  creditcards: Creditcards
   credits: Credits
   current: Current
   customer: ลูกค้า
@@ -893,7 +885,6 @@ th:
   search_results: "Search results for '%{keywords}'"
   searching: Searching
   secure_connection_type: การเชื่อมต่อแบบปลอดภัย
-  secure_creditcard: Secure Creditcard
   select: เลือก
   select_from_prototype: เลือกจากต้นแบบ
   select_preferred_shipping_option: "เลือกวิธีการจัดส่งที่ท่านต้องการ"
@@ -1003,7 +994,7 @@ th:
   taxonomy_edit: แก้ไขหมวดหมู่นี้
   taxonomy_tree_error: "คำขอเปลี่ยนไม่ผ่าน ทำให้แผนภูมิต้นไม้กลับเป็นแบบเดิม โปรดทดลองทำอีกครั้ง"
   taxonomy_tree_instruction: "* คลิกขวาบนกิ่ง เพื่อเปิดเมนู สำหรับ เพิ่ม ลบ หรือเรียงลำดับกิ่ง"
-  taxons: ประเภทภาษี
+  taxons: ป้ายกำกับหมวดหมู่
   test: "Test"
   test_mode: Test Mode
   thank_you_for_your_order: "ขอบคุณสำหรับการสั่งซื้อ ท่านสามารถพิมพ์รายการยืนยันเพื่อเก็บเป็นหลักฐานได้"
