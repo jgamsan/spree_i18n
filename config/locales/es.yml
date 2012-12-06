@@ -349,6 +349,10 @@ es:
   credit_total: Crédito Total
   credits: Créditos
   current: Actual
+  currency_symbol_position: "Posicion Simbolo Moneda"
+  choose_currency: "Escoje Moneda"
+  currency_settings: "Configuracion Moneda"
+  security_settings: "Configuracion Seguridad"
   customer: Cliente
   customer_details: "Detalles del cliente"
   customer_search: "Búsqueda de clientes"
