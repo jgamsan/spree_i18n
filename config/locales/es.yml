@@ -216,6 +216,7 @@ es:
   add_action_of_type: Añadir accion del tipo
   add_category: "Añadir Categoría"
   add_country: "Añadir País"
+  add_new_style: "Añadir Nuevo Estilo"
   add_option_type: "Añadir tipo de opción"
   add_option_types: "Añadir tipos de opciones"
   add_option_value: "Añadir valor de opción"
@@ -242,7 +243,10 @@ es:
   allow_backorders: "Permitir devoluciones"
   allow_ssl_to_be_used_when_in_developement_and_test_modes: Permitir el uso de SSL en los modos de desarrollo y prueba
   allow_ssl_to_be_used_when_in_production_mode: Permitir el uso de SSL en producción
+  allowed_ssl_in_production: "Permitir el uso SSL en produccion"
   allowed_ssl_in_production_mode: "SSL %{not} se utilizará en producción"
+  allow_ssl_in_staging: "Permitir el usso SSL en representacion"
+  allow_ssl_in_development_and_test: "Permitir el uso SSL en desarrollo y pruebas"
   already_registered: ¿Ya está registrado?
   alt_text: Texto alternativo
   alternative_phone: Teléfono alternativo
@@ -270,6 +274,10 @@ es:
   are_you_sure_you_want_to_capture: "¿Está seguro de que desea capturar?"
   assign_taxon: "Asignar Categoría"
   assign_taxons: "Asignar Categorías"
+  attachment_default_style: "Estilo por defecto del Accesorio"
+  attachment_default_url: "Url por Defecto Accesorio"
+  attachment_path: "Ruta Accesorio"
+  attachment_styles: "Estilos del Accesorio"
   authorization_failure: "Fallo de autorización"
   authorized: Autorizado
   available_on: "Disponible en"
@@ -280,6 +288,12 @@ es:
   back_to_store: "Volver a la tienda"
   backordered: Pedido pendiente de existencias
   backordering_is_allowed: "Pedidos pendientes de existencias %{not} permitidos"
+  back_to_payment_methods_list: "Volver a Listado de metodos de Pago"
+  back_to_shipping_categories_list: "Volver a Listado de Categorias de Envio"
+  back_to_shipping_methods_list: "Volver a Listado de Metodos de Envio"
+  back_to_tax_rates_list: "Volver a Listado de Tipos Impositivos"
+  back_to_taxonomies_list: Volver a Listado de Categorias
+  back_to_zones_list: "Volver a Listado de Zonas"
   balance_due: "Saldo pendiente"
   best_selling_products: "Productos más vendidos"
   best_selling_taxons: "Categorías mejor vendidas"
@@ -313,6 +327,7 @@ es:
   charges: Cargos
   checkout: Pagar
   cheque: Cheque
+  check_for_spree_alerts: "Comprobar alertas de Spree"
   city: Ciudad
   clone: Clonar
   code: Código
@@ -364,6 +379,7 @@ es:
   debit: Débito
   default: Por omisión
   default_tax: "Tasa por defecto"
+  default_tax_zone: "Zona Tasa por defecto"
   delete: Eliminar
   delivery: Envío
   depth: Profundidad
@@ -373,6 +389,7 @@ es:
   didnt_receive_unlock_instructions: "¿No ha recibido instrucciones de desbloqueo?"
   discount_amount: "Importe del descuento"
   display: Mostrar
+  display_currency: "Mostrar Moneda"
   edit: Editar
   edit_general_settings: "Editar configuración general"
   editing_billing_integration: Editando integración de facturación
@@ -465,14 +482,18 @@ es:
   has_no_shipped_units: no tiene unidades enviadas
   height: Altura
   hello_user: "Hola usuario"
+  hide_cents: "Ocultar Centimos"
   history: Historia
   home: "Inicio"
   icon: "Icono"
   icons_by: "Iconos por"
   image: Imagen
   images: Imágenes
+  image_settings: "Configuracion de Imagenes"
+  image_settings_warning: "Aviso Configuracion Imagenes"
   images_for: "Imágenes para"
   in_progress: "En progreso"
+  included_in_price: "Incluido en el Precio"
   include_in_shipment: Incluir en envío
   included_in_other_shipment: Incluido en otro envío
   included_in_this_shipment: Incluido en éste envío
@@ -486,6 +507,7 @@ es:
   inventory_setting_description: "Configuración del inventario, Devoluciones, mostrar artículos sin stock"
   inventory_settings: "Configuración del inventario"
   is_not_available_to_shipment_address: "No se encuentra disponible para la dirección de envío"
+  iso_name: Nombre ISO
   issue_number: Numero de Control
   item: artículo
   item_description: "Descripción del artículo"
@@ -505,6 +527,7 @@ es:
   leave_blank_to_not_change: "(dejar en blanco si no quiere cambiar su valor)"
   list: Lista
   listing_categories: "Listado de Categorías"
+  listing_countries: "Listado de Paises"
   listing_option_types: "Listado de tipos de opciones"
   listing_orders: "Listado de pedidos"
   listing_products: "Listado de productos"
@@ -533,6 +556,7 @@ es:
   make_refund: Realizar devolución
   mark_shipped: "Marcar como enviado"
   master_price: "Precio principal"
+  match_rule: "Coincide con la Regla"
   max_items: Máximo de elementos
   may_be_combined_with_other_promotions: Puede combinarse con otras promociones
   meta_description: "Meta descripción"
@@ -954,6 +978,7 @@ es:
   shipping_categories: "Categorías de envío"
   shipping_categories_description: "Gestionar las categorías de envío para determinar qué categorías de productos pueden ser transportados a través de qué método"
   shipping_category: Categoría de envío
+  shipping_category_choose: "Escoje Cayegoria de Envio"
   shipping_cost: Costes de envío
   shipping_error: "Error de envío"
   shipping_instructions: "Instrucciones de envío"
@@ -970,6 +995,7 @@ es:
   show_only_complete_orders: "Mostrar sólo los pedidos completados"
   show_out_of_stock_products: "Mostrar productos sin stock"
   show_price_inc_vat: "Mostrar precios con IVA incluido"
+  show_rate_in_label: "Mostrar tasa en la Etiqueta"
   showing_first_n: "Mostrando los primeros: %{n}"
   sign_up: Registrarme
   site_name: "Nombre del sitio"
@@ -1001,6 +1027,7 @@ es:
   state_based: "Provincia"
   state_setting_description: "Administrar la lista de estados o provincias asociados con cada país."
   states: Provincias
+  states_required: "Require Provincias"
   status: Estado
   stop: Hasta
   store: Tienda
@@ -1073,6 +1100,7 @@ es:
   use_different_shipping_address: "Usar una dirección de envío diferente"
   use_new_cc: "Usar una tarjeta diferente"
   user: Usuario
+  use_s3: Usar S3
   user_account: Cuenta de cliente
   user_created_successfully: "Cliente creado"
   user_details: "Detalles del cliente"
