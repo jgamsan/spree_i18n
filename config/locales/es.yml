@@ -74,6 +74,8 @@ es:
         item_total: "Total artículos"
         number: Número
         special_instructions: "Instrucciones especiales"
+        payment_state: "Estado del Pago"
+        shipment_state: "Estado del Envio"
         state: Estado
         total: Total
       product:
