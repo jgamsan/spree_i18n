@@ -66,7 +66,7 @@ es:
       line_item:
         price: Precio
         quantity: Cantidad
-      order:
+      spree/order:
         checkout_complete: "Pedido completado"
         completed_at: "Completado el"
         coupon_code: "Código de cupón"
@@ -94,6 +94,8 @@ es:
       product_scope:
         arguments: "Argumentos"
         description: "Descripción"
+      spree/payment:
+        amount: "Cantidad"
       spree/promotion:
         advertise: Anunciar
         code: Codigo
@@ -288,6 +290,7 @@ es:
   back_to_store: "Volver a la tienda"
   backordered: Pedido pendiente de existencias
   backordering_is_allowed: "Pedidos pendientes de existencias %{not} permitidos"
+  back_to_orders_list: "Volver a Listado de Pedidos"
   back_to_payment_methods_list: "Volver a Listado de metodos de Pago"
   back_to_shipping_categories_list: "Volver a Listado de Categorias de Envio"
   back_to_shipping_methods_list: "Volver a Listado de Metodos de Envio"
@@ -377,6 +380,7 @@ es:
       default: "%d-%m-%Y %H:%M:%S %Z"
   date_created: Fecha creada
   date_range: "Rango de Fecha"
+  date_completed: "Fecha de Finalizacion"
   debit: Débito
   default: Por omisión
   default_tax: "Tasa por defecto"
@@ -447,6 +451,7 @@ es:
   extension: Extensión
   extensions: Extensiones
   filename: "Nombre de archivo"
+  filter_results: "Resultados Filtrados"
   final_confirmation: "Confirmación Final"
   finalize: Finalizar
   finalized_payments: pagos finalizados
@@ -640,6 +645,7 @@ es:
   order_date: "Fecha de pedido"
   order_details: "Detalles del pedido"
   order_email_resent: "Email de pedido reenviado"
+  order_information: "Informacion del Pedido"
   order_mailer:
     cancel_email:
       subject: "Cancelación de pedido"
@@ -899,6 +905,7 @@ es:
   quantity_shipped: Cantidad enviada
   range: "Rango"
   rate: proporción
+  ready: "Listo"
   reason: Razón
   recalculate_order_total: "Recalcular total del pedido"
   receive: recibir
@@ -994,6 +1001,7 @@ es:
   show_deleted: "Mostrar borrados"
   show_incomplete_orders: "Mostrar los pedidos incompletos"
   show_only_complete_orders: "Mostrar sólo los pedidos completados"
+  show_only_unfulfilled_orders: "Mostrar solo los pedidos no completados"
   show_out_of_stock_products: "Mostrar productos sin stock"
   show_price_inc_vat: "Mostrar precios con IVA incluido"
   show_rate_in_label: "Mostrar tasa en la Etiqueta"
