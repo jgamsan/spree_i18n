@@ -296,6 +296,7 @@ es:
   back_to_payment_methods_list: "Volver a Listado de metodos de Pago"
   back_to_shipping_categories_list: "Volver a Listado de Categorias de Envio"
   back_to_shipping_methods_list: "Volver a Listado de Metodos de Envio"
+  back_to_tax_categories_list: "Volver a Listado de Categorias Fiscales"
   back_to_tax_rates_list: "Volver a Listado de Tipos Impositivos"
   back_to_taxonomies_list: Volver a Listado de Categorias
   back_to_zones_list: "Volver a Listado de Zonas"
@@ -988,7 +989,7 @@ es:
   shipping_categories: "Categorías de envío"
   shipping_categories_description: "Gestionar las categorías de envío para determinar qué categorías de productos pueden ser transportados a través de qué método"
   shipping_category: Categoría de envío
-  shipping_category_choose: "Escoje Cayegoria de Envio"
+  shipping_category_choose: "Escoje Categoria de Envio"
   shipping_cost: Costes de envío
   shipping_error: "Error de envío"
   shipping_instructions: "Instrucciones de envío"
